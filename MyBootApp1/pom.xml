@@ -85,7 +85,6 @@
           <groupId>org.springframework.boot</groupId>
           <artifactId>spring-boot-maven-plugin</artifactId>
         </plugin>
-        
         <plugin>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
@@ -93,7 +92,6 @@
           <mainClass>jp.te4a.spring.boot.myapp1.App</mainClass>
         </configuration>
       </plugin>
-      
       </plugins>
   </build>
 </project>
